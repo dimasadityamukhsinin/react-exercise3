@@ -43,6 +43,7 @@
   border: 1px solid #2e2e2e;
   border-radius: 5px;
   padding: 30px;
+  margin-right: 20px;
 }
 
 iframe {
@@ -60,8 +61,4 @@ iframe {
 
 .cardCourses p {
   font-size: 12px;
-}
-
-.item-2 {
-  margin-left: 20px;
 }

@@ -3,9 +3,9 @@ import Avatar from '../Avatar/Avatar';
 
 const infoStudent = ({nama, status, bio, url}) => {
     return(
-        <div class="cardStudent">
+        <div className="cardStudent">
             <Avatar image={url}/>
-            <div class="content">
+            <div className="content">
                 <h1>{nama}</h1>
                 <div className="status">
                     <p>{status}</p>
